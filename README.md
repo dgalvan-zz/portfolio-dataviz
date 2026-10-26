@@ -11,22 +11,12 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-I’m currently pursuing a Master of Science in Public Policy and Management (Data Analytics Track) with a concentration in AI at Carnegie Mellon University, and I’m open to Full-Time job opportunities starting in May 2027 in Data Engineering, Data Analytics, or Data Science.
-
-I began my professional journey as a teacher, where I developed a strong ability to communicate complex ideas, support learning, and inspire curiosity. This experience shaped my interest in problem-solving and ultimately motivated my transition into technology and data.
-
-Before starting my master’s program, I worked for one year as a Data Engineer, gaining hands-on experience building data solutions and transforming raw data into actionable insights. During this time, I strengthened my skills in Python, OData, Databricks, and data workflows, while continuing to grow my expertise in SQL and ETL processes.
-
-Most recently, I worked as a Financial Programmer Intern at the University of Pittsburgh, where I consolidated financial information from Tableau across funding streams for university faculty members, utilized Power Query for ETL operations, and developed a Python-based automation tool to combine multiple datasets and automatically generate and distribute individualized faculty dashboards.
-
-My transition from education to technology represents more than a career change—it reflects my commitment to combining technical skills, creativity, and purpose to drive meaningful impact. Through my graduate studies, I am now deepening my ability to leverage data, artificial intelligence, and policy analysis to inform decision-making and advocate for positive change.
-
-I’m very excited to continue learning, exploring emerging technologies, and collaborating on projects that challenge me intellectually while creating real-world value.
+Hi everyone! I'm a master's student in Public Policy and Management (Data Analytics Track) with a concentration in AI at Carnegie Mellon University. My background includes teaching, data engineering, and financial data analytics. I'm interested in data science, analytics, and AI, and I'm excited to learn how to create effective visualizations and communicate insights through data.
 
 # What I hope to learn
 
-1. List item #1 By the end of this course, I hope to be able to look at a visualization and say, "That's great work," or "That needs improvement," and explain why.
-2. List item #2 I also hope to be able to create effective visualizations that clearly communicate the message I want to convey to my audience.
+1. By the end of this course, I hope to be able to look at a visualization and say, "That's great work," or "That needs improvement," and explain why.
+2. I also hope to be able to create effective visualizations that clearly communicate the message I want to convey to my audience.
 
 # Portfolio
 
@@ -74,13 +64,7 @@ You can use different headings, like this:
 You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 ### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-
 Alternately, you can set the size of the image using just a bit of HTML: 
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
@@ -88,21 +72,6 @@ Alternately, you can set the size of the image using just a bit of HTML:
 Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
 ### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
 
