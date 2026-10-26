@@ -4,27 +4,29 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://dgalvan-zz.github.io/portfolio-dataviz/
+- This repository: https://github.com/dgalvan-zz/portfolio-dataviz
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I’m currently pursuing a Master of Science in Public Policy and Management (Data Analytics Track) with a concentration in AI at Carnegie Mellon University, and I’m open to Full-Time job opportunities starting in May 2027 in Data Engineering, Data Analytics, or Data Science.
+
+I began my professional journey as a teacher, where I developed a strong ability to communicate complex ideas, support learning, and inspire curiosity. This experience shaped my interest in problem-solving and ultimately motivated my transition into technology and data.
+
+Before starting my master’s program, I worked for one year as a Data Engineer, gaining hands-on experience building data solutions and transforming raw data into actionable insights. During this time, I strengthened my skills in Python, OData, Databricks, and data workflows, while continuing to grow my expertise in SQL and ETL processes.
+
+Most recently, I worked as a Financial Programmer Intern at the University of Pittsburgh, where I consolidated financial information from Tableau across funding streams for university faculty members, utilized Power Query for ETL operations, and developed a Python-based automation tool to combine multiple datasets and automatically generate and distribute individualized faculty dashboards.
+
+My transition from education to technology represents more than a career change—it reflects my commitment to combining technical skills, creativity, and purpose to drive meaningful impact. Through my graduate studies, I am now deepening my ability to leverage data, artificial intelligence, and policy analysis to inform decision-making and advocate for positive change.
+
+I’m very excited to continue learning, exploring emerging technologies, and collaborating on projects that challenge me intellectually while creating real-world value.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. List item #1 By the end of this course, I hope to be able to look at a visualization and say, "That's great work," or "That needs improvement," and explain why.
+2. List item #2 I also hope to be able to create effective visualizations that clearly communicate the message I want to convey to my audience.
 
 # Portfolio
 
@@ -108,5 +110,5 @@ Looking for more?  A nice Markdown guide [can be found here](https://www.markdow
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used grammarly for grammar_
 
