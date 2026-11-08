@@ -33,6 +33,5 @@ Hi everyone! I'm a master's student in Public Policy and Management (Data Analyt
 _List any references you used here._
 
 ## AI acknowledgements
-_I used grammarly for grammar_
-OpenAI Codex was used to help improve this portfolio’s design, navigation, and layout, and to create an interactive visual resume from my existing resume.
+_I used grammarly for grammar, also OpenAI Codex was used to help improve this portfolio’s design, navigation, and layout, and to create an interactive visual resume from my existing resume.
 
