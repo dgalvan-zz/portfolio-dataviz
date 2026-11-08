@@ -8,18 +8,15 @@ title: Data visualization examples
 
 ## Working with Tableau: Visualizing Government Debt 1
 
-<figure class="chart-preview">
-  <a href="https://public.tableau.com/views/DebttoGDPratiosbycountry/Debt-to-GDPratiosbycountry?:showVizHome=no" target="_blank" rel="noopener noreferrer" aria-label="Open Debt-to-GDP ratios by country on Tableau Public in a new tab">
-    <img src="https://public.tableau.com/static/images/De/DebttoGDPratiosbycountry/Debt-to-GDPratiosbycountry/1_rss.png" alt="Debt-to-GDP ratios by country" loading="eager" referrerpolicy="no-referrer">
-  </a>
-  <figcaption>Chart preview · <a href="https://public.tableau.com/views/DebttoGDPratiosbycountry/Debt-to-GDPratiosbycountry?:showVizHome=no" target="_blank" rel="noopener noreferrer">Open interactive chart on Tableau Public ↗</a></figcaption>
-</figure>
-<details class="interactive-chart">
-  <summary>Explore interactive visualization</summary>
-  <p>Use the chart below to explore the data. If it does not load, <a href="https://public.tableau.com/views/DebttoGDPratiosbycountry/Debt-to-GDPratiosbycountry?:showVizHome=no" target="_blank" rel="noopener noreferrer">open it on Tableau Public ↗</a>.</p>
-  <iframe title="Interactive chart: Debt-to-GDP ratios by country" src="https://public.tableau.com/views/DebttoGDPratiosbycountry/Debt-to-GDPratiosbycountry?:embed=yes&amp;:showVizHome=no&amp;:tabs=no&amp;:toolbar=yes" width="100%" height="760" loading="lazy" allowfullscreen></iframe>
-</details>
-
+<div class='tableauPlaceholder' id='viz1794105122698' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP ratios by country ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DebttoGDPratiosbycountry&#47;Debt-to-GDPratiosbycountry&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DebttoGDPratiosbycountry&#47;Debt-to-GDPratiosbycountry' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DebttoGDPratiosbycountry&#47;Debt-to-GDPratiosbycountry&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1794105122698');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 ## Working with Tableau: Visualizing Government Debt 2
 
 <figure class="chart-preview">
