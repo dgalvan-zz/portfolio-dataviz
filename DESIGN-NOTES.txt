@@ -1,0 +1,47 @@
+PORTFOLIO DESIGN AND ORGANIZATION
+
+PAGES
+Home: index.md, introduction and photograph only.
+My Resume: resume.md with the interactive experience, education, projects,
+leadership timeline, and skills. The large Home button opens this page.
+My Coursework: coursework.md, a directory for classes. Only the supplied
+Telling Stories with Data class has been added.
+Class overview: README.md, published at telling-stories-with-data.html.
+The original class introduction, About me, learning goals, assignment headings,
+references, and AI acknowledgement are preserved here.
+Original template instructions and their duplicate URL list were removed
+at the user request.
+The five existing assignment pages retain their original URL paths and content.
+Assignment navigation appears only on the class overview and assignment pages.
+
+PUBLISH TO YOUR EXISTING GITHUB PAGES SITE
+Upload the CONTENTS of this folder to the root of portfolio-dataviz.
+Include _config.yml, _layouts, _includes, assets, all Markdown files, and the
+original photograph. Do not upload this outer folder or these instructions.
+Commit the files. Keep the Pages source setting main / root.
+GitHub will build the Jekyll website. Check Actions if the build reports errors.
+The old README homepage permalink has moved to the class overview; index.md
+now provides the homepage. Upload both files together.
+
+EDITING
+Edit index.md / _includes/intro.html for the homepage.
+Edit coursework.md to add class cards when you have another class to document.
+Edit README.md for Telling Stories with Data; edit each assignment Markdown
+file as before. Keep their front matter so the shared navigation is applied.
+Visual resume text, the accessible transcript, and inline timeline data live in
+_includes/visual-resume.html. assets/resume-data.json is a data snapshot;
+keep it in sync if editing the displayed inline data.
+
+VERIFICATION
+Home -> Resume and My Coursework -> Class -> Assignments verified in Chrome.
+Resume filters show 4 professional, 3 education, 2 project, 1 leadership entries.
+Keyboard controls and expected CMU graduation label were checked previously.
+No page overflow at mobile widths 320px and 390px.
+All original class content remains, apart from moving its old navigation
+links into the dedicated class navigation. All 3 Tableau charts now have visible image previews, direct Tableau links,
+and expandable iframe embeds. Previews do not depend on JavaScript.
+External Tableau workbook availability depends on Tableau Public.
+The original photo is displayed with a CSS crop; its source is unchanged.
+The resume PDF and phone number are not included in this website package.
+The local preview uses a Markdown renderer; the production Jekyll build must
+run on GitHub after upload. The live website has not been changed.

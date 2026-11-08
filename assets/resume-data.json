@@ -1,0 +1,199 @@
+[
+  {
+    "id": "pitt",
+    "category": "experience",
+    "title": "Financial Programmer",
+    "org": "University of Pittsburgh",
+    "start": "2026-06",
+    "end": "2026-08",
+    "date": "Jun – Aug 2026",
+    "place": "Hybrid · United States",
+    "skills": [
+      "Python",
+      "Power Query",
+      "Tableau",
+      "SharePoint",
+      "ETL"
+    ],
+    "points": [
+      "Consolidated financial information from Tableau into a centralized reporting architecture for over 13 faculty members.",
+      "Cleaned and restructured data with Power Query, using calculated columns to resolve record inconsistencies and gaps.",
+      "Built Python automation to generate and distribute individualized faculty dashboards to SharePoint, replacing manual multi-hour workflows with a single-click solution."
+    ]
+  },
+  {
+    "id": "inchcape",
+    "category": "experience",
+    "title": "Junior Data Engineer",
+    "org": "Inchcape",
+    "start": "2024-08",
+    "end": "2025-08",
+    "date": "Aug 2024 – Aug 2025",
+    "place": "Remote · Colombia",
+    "skills": [
+      "PySpark",
+      "Databricks",
+      "Azure Data Factory",
+      "SAP OData"
+    ],
+    "points": [
+      "Extracted and transformed SAP data tables using PySpark in Databricks to produce clean, analysis-ready datasets.",
+      "Maintained Azure Data Factory pipelines and structured Databricks datasets in collaboration with the analytics team.",
+      "Managed SAP systems and OData services for reliable data access and reporting."
+    ]
+  },
+  {
+    "id": "codeday",
+    "category": "experience",
+    "title": "Software Engineer Micro-Internship",
+    "org": "CTI-CodeDay",
+    "start": "2023-11",
+    "end": "2023-12",
+    "date": "Nov – Dec 2023",
+    "place": "Remote · United States",
+    "skills": [
+      "JavaScript",
+      "Chai",
+      "Mocha",
+      "Open source"
+    ],
+    "points": [
+      "Contributed to Open Energy Dashboard, an open-source application for visualizing and tracking energy consumption.",
+      "Implemented the B2 reading bar meter quantity test case to verify accurate energy readings for partial days."
+    ],
+    "link": "https://github.com/OpenEnergyDashboard/OED/pull/1079",
+    "linkLabel": "View contribution · PR #1079"
+  },
+  {
+    "id": "merritt",
+    "category": "experience",
+    "title": "Math and Spanish Tutor",
+    "org": "Merritt College",
+    "start": "2023-08",
+    "end": "2023-12",
+    "date": "Aug – Dec 2023",
+    "place": "Oakland, California",
+    "skills": [
+      "Teaching",
+      "Spanish",
+      "Communication"
+    ],
+    "points": [
+      "Provided one-on-one tutoring adapted to different learning styles and pacing needs.",
+      "Helped students break complex concepts into manageable steps to build understanding and confidence."
+    ]
+  },
+  {
+    "id": "cmu",
+    "category": "education",
+    "title": "MS · Public Policy & Management",
+    "org": "Carnegie Mellon University",
+    "start": "2027-05",
+    "end": "2027-05",
+    "date": "Expected May 2027",
+    "place": "Heinz College · Pittsburgh, Pennsylvania",
+    "milestone": true,
+    "skills": [
+      "Data Analytics",
+      "Public Policy",
+      "Machine Learning",
+      "Econometrics"
+    ],
+    "points": [
+      "Master of Science in Public Policy and Management, Data Analytics.",
+      "Coursework: International Policy & Politics; Machine Learning; Applied Econometrics I and II; Data Visualization with Python; Programming Intro to Python 1; Python Programming 2; Database Management for Policy Analysis; Optimization & Decision Modeling for Analytics."
+    ]
+  },
+  {
+    "id": "laney",
+    "category": "education",
+    "title": "AS · Computer Programming",
+    "org": "Laney College",
+    "start": "2023-12",
+    "end": "2023-12",
+    "date": "Dec 2023",
+    "place": "Oakland, California",
+    "milestone": true,
+    "skills": [
+      "Computer Programming"
+    ],
+    "points": [
+      "Associate of Science in Computer Programming."
+    ]
+  },
+  {
+    "id": "cordoba",
+    "category": "education",
+    "title": "BS · Computer Science & Audiovisual Media",
+    "org": "The University of Córdoba",
+    "start": "2015-08",
+    "end": "2015-08",
+    "date": "Aug 2015",
+    "place": "Montería, Colombia",
+    "milestone": true,
+    "skills": [
+      "Computer Science",
+      "Audiovisual Media"
+    ],
+    "points": [
+      "Bachelor of Science in Computer Science and Audiovisual Media."
+    ]
+  },
+  {
+    "id": "english",
+    "category": "projects",
+    "title": "English Proficiency Trend Analysis",
+    "org": "Carnegie Mellon University",
+    "start": "2025-10",
+    "end": "2025-12",
+    "date": "Oct – Dec 2025",
+    "place": "Colombia · Education data, 2020–2024",
+    "skills": [
+      "Python",
+      "pandas",
+      "NumPy",
+      "Plotly",
+      "seaborn",
+      "GeoPandas",
+      "folium"
+    ],
+    "points": [
+      "Cleaned and combined large national datasets to reveal English competency trends across Colombian schools.",
+      "Created interactive and static line charts, heatmaps, and maps comparing performance by year, region, and school type to highlight proficiency gaps."
+    ]
+  },
+  {
+    "id": "mobility",
+    "category": "projects",
+    "title": "International Student Mobility Analysis",
+    "org": "Carnegie Mellon University",
+    "start": "2025-08",
+    "end": "2025-10",
+    "date": "Aug – Oct 2025",
+    "place": "Global · UNESCO data, 2000–2023",
+    "skills": [
+      "Python",
+      "pandas",
+      "Plotly",
+      "Geospatial mapping"
+    ],
+    "points": [
+      "Cleaned and integrated UNESCO datasets to analyze outbound and inbound student trends across countries.",
+      "Communicated top outbound and inbound countries and mobility trends to support exploration of global education policy."
+    ]
+  },
+  {
+    "id": "nasa",
+    "category": "leadership",
+    "title": "L’SPACE Mission Concept Academy",
+    "org": "NASA",
+    "start": "2024-01",
+    "end": "2024-05",
+    "date": "Jan – May 2024",
+    "place": "Remote · United States",
+    "skills": [],
+    "points": [
+      "L’SPACE Mission Concept Academy, Spring 2024."
+    ]
+  }
+]

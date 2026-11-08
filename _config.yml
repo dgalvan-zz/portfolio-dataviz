@@ -1,0 +1,13 @@
+title: Data visualization portfolio
+url: "https://dgalvan-zz.github.io"
+baseurl: "/portfolio-dataviz"
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - DESIGN-NOTES.txt
