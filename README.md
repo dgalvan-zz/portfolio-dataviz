@@ -34,4 +34,5 @@ _List any references you used here._
 
 ## AI acknowledgements
 _I used grammarly for grammar_
+OpenAI Codex was used to help improve this portfolio’s design, navigation, and layout, and to create an interactive visual resume from my existing resume.
 
