@@ -4,8 +4,7 @@ page_class: assignment
 course: true
 title: Critique by design
 ---
-# Title
-
+# Assignment: Critique and redesign (MakeoverMonday)
 
 ## Step one: the visualization
 
