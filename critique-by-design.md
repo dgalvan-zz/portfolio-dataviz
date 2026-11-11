@@ -16,6 +16,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 I selected this data visualization because of the information it was trying to communicate. I am very interested in protein intake, so the topic immediately caught my attention. I was curious to see how I could get 30 grams of protein at an affordable price. As I started exploring the data, I realized that there was room for improvement, such as categorizing the products into vegan and non-vegan protein sources or improving the way prices were displayed. My ultimate goal was to make the visualization more relevant and useful to people like me who want to consume a high amount of protein at an affordable price.
 
 link to the original data visualization: https://makeovermonday.vercel.app/dataset/2023w8
+
 <img width="695" height="705" alt="Screenshot 2026-11-11 at 9 22 06 AM" src="https://github.com/user-attachments/assets/4950471b-6f72-4f95-8bed-b1ea82ad2fc1" />
 
 
