@@ -91,3 +91,10 @@ Direct URL: https://www.youtube.com/watch?v=45pgu_SrZsg&list=PLX-uPHRG0cLb697Ie-
 ## AI acknowledgements
 AI usage: I used AI to select my preferred colors, to organize the my markdown table with the interviews and also to check grammar and sentences organization.
 
+
+
+.assignment .page-content > h1:first-of-type {
+  font-size: clamp(30px, 4vw, 48px);
+  letter-spacing: -1px;
+}
+
