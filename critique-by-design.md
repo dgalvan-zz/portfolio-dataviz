@@ -4,7 +4,7 @@ page_class: assignment
 course: true
 title: Critique by design
 ---
-# Assignment: Critique and redesign (MakeoverMonday)
+## Assignment: Critique and redesign (MakeoverMonday)
 
 ## Step one: the visualization
 
@@ -42,23 +42,7 @@ First, I omitted the images, rearranged the bars vertically and set the exact pr
 
 
 ## Step four: Test the solution
-
-Questions to ask: 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-
-### Step Four: Peer Interview Feedback
+### Peer Interview Feedback
 
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 | Interviewee 4 |
 |---|---|---|---|---|
@@ -70,7 +54,7 @@ Results:
 | Who is the intended audience? | Not discussed | Not discussed | People interested in increasing protein intake | Questioned whether it was everyday consumers or policymakers |
 
 
-**Synthesis: **
+**Synthesis:**
 
 After reviewing my interviews I can see that in general the visualization communicates its main purpose. For example, one thing I did well was sorting the bars, the interview 1 and 3 commented that that sorting allows them to easily identify the most and least expensive option. Another observation was about the colors, while interviewee 2 expressed that the colours were a very good way to differentiate the protein sources, he also recommended changing the animal category source to a brown or red. Interviewee 4 also suggested that using grey for the unknown category would be more appropriate. I think these comments make sense and it would be worth it implementing them. 
 
@@ -86,7 +70,7 @@ This is my second scratch after the feedback received.
 For my final solution I started off using a tutorial from MakeoverMonday video, it helped me to understand how to set up my design. I followed the feedback made by the interviewees focusing on the distinctions and matched colors. I did create a filter showing plant base in green and animal base in a dark red, in the title I used 'grams' instead of only 'G' and also did add the average line for the audience as a reference. 
 It is also important to mention that the initial visualization had 30 grams of protein in the data, but the data set I was working on represents only 20grams that is why the title is different. 
 
-Final Visualization on Tableau: 
+**Final Visualization on Tableau:**
 
 <div class='tableauPlaceholder' id='viz1794432906905' style='position: relative'><noscript><a href='#'><img alt='How Much Does 20 Grams of Protein Cost? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HowMuchDoes20GramsofProteinCost&#47;HowMuchDoes20GramsofProteinCost&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HowMuchDoes20GramsofProteinCost&#47;HowMuchDoes20GramsofProteinCost' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HowMuchDoes20GramsofProteinCost&#47;HowMuchDoes20GramsofProteinCost&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
