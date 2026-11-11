@@ -36,7 +36,7 @@ I would also reconsider the product images and calorie information. I want the m
 
 ## Step three: Sketch a solution
 
-According to my finding, this was the first initial scratch I came up with. 
+According to my finding, this was the first initial sketch I came up with. 
 First, I omitted the images, rearranged the bars vertically and set the exact price to each product, also I categorized the sources and gave them  different colors.
 <img width="3021" height="2247" alt="IMG_6838 copy" src="https://github.com/user-attachments/assets/2af7533a-99b7-447b-b795-17c93030b2b4" />
 
@@ -61,7 +61,7 @@ After reviewing my interviews I can see that in general the visualization commun
 One thing I found interesting is how the interviewee 1 and 2  agree that the tittle was very well designed and informative, but interviewee 3 found confusing part of it, and after today’s class I think it make sense, it was typography, typography matters, participant 3 thought it was a 6 instead of a G. (this is a good note to mention).
 Overall I think I am going in a good direction and the feedback made me realize that there are some opportunities to improve in the use of colors and even typography. 
 
-This is my second scratch after the feedback received. 
+This is my second sketch after the feedback received. 
 <img width="2913" height="2025" alt="IMG_6840" src="https://github.com/user-attachments/assets/10c7ff5d-bc3d-428c-b130-b055d7f02e2a" />
 
 
