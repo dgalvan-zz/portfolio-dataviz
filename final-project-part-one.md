@@ -10,7 +10,8 @@ title: Final project I
  
 This project explores how school attendance has changed over time in Pittsburgh Public Schools, which student groups experience the highest rates of chronic absenteeism, and how mentoring programs could potentially help improve school attendance.
 Here is my initial Story Arc:
-<img width="4032" height="3024" alt="IMG_6890" src="https://github.com/user-attachments/assets/4f425592-fe16-4dd0-81b1-adbdb0c816c9" />
+
+<img width="3939" height="2954" alt="IMG_6891" src="https://github.com/user-attachments/assets/54da5177-1a10-4d84-9aa6-ad9065a95a62" />
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
