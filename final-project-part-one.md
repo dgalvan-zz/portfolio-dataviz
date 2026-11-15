@@ -9,6 +9,7 @@ title: Final project I
 # Outline
  
 This project explores how school attendance has changed over time in Pittsburgh Public Schools, which student groups experience the highest rates of chronic absenteeism, and how mentoring programs could potentially help improve school attendance.
+
 Here is my initial Story Arc:
 
 <img width="3939" height="2954" alt="IMG_6891" src="https://github.com/user-attachments/assets/54da5177-1a10-4d84-9aa6-ad9065a95a62" />
