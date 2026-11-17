@@ -7,6 +7,8 @@ title: Final project I
 
 
 # Outline
+
+### Who Is Missing School in Pittsburgh, and Are Attendance Gaps Getting Better or Worse?
  
 This project explores how school attendance has changed over time in Pittsburgh Public Schools, which student groups experience the highest rates of chronic absenteeism, and how mentoring programs could potentially help improve school attendance.
 
