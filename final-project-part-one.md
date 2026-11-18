@@ -17,7 +17,7 @@ Here is my initial Story Arc:
 
 ## Initial sketches
 
-For my initial sketches, I created four options:
+For my initial sketches, I created four designs:
 
 > ### **Sketch 1 — District Chronic Absence Trend Over Time**
 >
@@ -52,17 +52,19 @@ For my initial sketches, I created four options:
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> For this project, I am using publicly available data from the Pittsburgh Public Schools Office of Research and Evaluation. My two primary datasets are Pittsburgh Public Schools Attendance-all Years and Pittsburgh Public Schools Enrollment-all Years. These datasets provide information about student attendance and enrollment across different schools and academic years. I plan to use this data to analyze attendance trends over time, compare schools, and identify which schools or geographic areas experience greater challenges with student attendance. My goal is to understand where additional student support programs could be most beneficial.
+> 
+> To support my analysis, I selected three case studies from Attendance Works, focusing on Ohio, Colorado, and Mobile, Alabama. These case studies show how different schools and districts have implemented support programs to improve student attendance and engagement. I plan to use these examples to demonstrate how targeted programs and interventions can help schools keep students engaged, improve attendance, and encourage them to stay in school.
 
-Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Pittsburgh Public Schools Attendance – All Years | [Excel Dataset](https://www.pghschools.org/fs/resource-manager/view/6bb1a174-4a1a-45e2-8d0d-bc7051d136b8) | Attendance data across Pittsburgh Public Schools to identify trends and attendance challenges. |
+| Pittsburgh Public Schools Enrollment – All Years | [Excel Dataset](https://www.pghschools.org/fs/resource-manager/view/05859e7a-33b5-4099-9051-79578858cc88) | Enrollment data across schools and academic years to analyze student population trends. |
+| Ohio,  Reducing Chronic Absenteeism | [Case Study](https://attendanceworks.org/wp-content/uploads/2019/06/Ohio-Success-Story-Attendance-Works-082625.pdf) | Examines how student support programs and early interventions helped improve attendance. |
+| Colorado, Reducing Chronic Absenteeism | [Case Study](https://attendanceworks.org/wp-content/uploads/2019/06/CO_AW_Narrative_Success_Story_052925.pdf) | Highlights how targeted interventions and community partnerships helped reduce chronic absenteeism. |
+| Mobile, Alabama, Cutting Chronic Absence by 50% | [Case Study](https://www.attendanceworks.org/cutting-chronic-absence-by-50-in-mobile-alabama/) | Demonstrates how student support programs and family engagement helped improve attendance and student retention. |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
