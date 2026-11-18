@@ -67,12 +67,12 @@ For my initial sketches, I created four designs:
 | Mobile, Alabama, Cutting Chronic Absence by 50% | [Case Study](https://www.attendanceworks.org/cutting-chronic-absence-by-50-in-mobile-alabama/) | Demonstrates how student support programs and family engagement helped improve attendance and student retention. |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> I plan to complete my final project using Tableau to bring the sketches I previously created by hand to life. My goal is to create an interactive dashboard where users can explore the data and follow the story clearly in one place. Through different visualizations, I want to highlight student attendance trends across Pittsburgh Public Schools and show how student support programs could help improve attendance and keep students engaged in school. 
 
-Text here...
+
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used ChatGPT to help organize and improve the clarity of my data source descriptions and format the links to my datasets and case studies in a GitHub README table. I selected the data sources and case studies myself and used AI mainly for writing assistance and formatting._
