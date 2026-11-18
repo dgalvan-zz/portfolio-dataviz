@@ -72,7 +72,16 @@ For my initial sketches, I created four designs:
 
 
 ## References
-_List any references you used here._
+#### Primary Data Sources
+
+- [Pittsburgh Public Schools Attendance – All Years](https://www.pghschools.org/fs/resource-manager/view/6bb1a174-4a1a-45e2-8d0d-bc7051d136b8)
+- [Pittsburgh Public Schools Enrollment – All Years](https://www.pghschools.org/fs/resource-manager/view/05859e7a-33b5-4099-9051-79578858cc88)
+
+#### Supporting Case Studies
+
+- [Ohio – Reducing Chronic Absenteeism](https://attendanceworks.org/wp-content/uploads/2019/06/Ohio-Success-Story-Attendance-Works-082625.pdf)
+- [Colorado – Reducing Chronic Absenteeism](https://attendanceworks.org/wp-content/uploads/2019/06/CO_AW_Narrative_Success_Story_052925.pdf)
+- [Mobile, Alabama – Cutting Chronic Absence by 50%](https://www.attendanceworks.org/cutting-chronic-absence-by-50-in-mobile-alabama/)
 
 ## AI acknowledgements
 _I used ChatGPT to help organize and improve the clarity of my data source descriptions and format the links to my datasets and case studies in a GitHub README table. I selected the data sources and case studies myself and used AI mainly for writing assistance and formatting._
