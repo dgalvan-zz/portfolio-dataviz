@@ -13,9 +13,9 @@ https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6L0W1nX7qo
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> The primary audience for my project is education policymakers, school administrators, and educators in Pittsburgh, particularly those involved in developing, funding, or implementing student support programs in Pittsburgh Public Schools.
+My goal is to use attendance data to identify schools and student groups experiencing higher rates of chronic absenteeism and explore how mentoring, student engagement initiatives, and other support programs could help address these challenges. I hope this story can provide useful information for decision-makers and encourage collaboration between policymakers, schools, and teachers to develop strategies that motivate students to attend school regularly and feel more connected to their education.
 
-Text here!
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
