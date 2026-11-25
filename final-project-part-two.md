@@ -30,15 +30,17 @@ My goal is to use attendance data to identify schools and student groups experie
 | Evaluate whether the story provides useful information for considering student support programs. | After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing? 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What is the main message you get from this story? |            |             |             |
+|Is there anything confusing about the visualizations?                         |                                |             |             |
+|Can you identify which schools have higher chronic absenteeism rates?                         |                                |             |             |
+|Can you explain in your own words what the percentages in this graph represent?                        |                                |             |             |
+|What would you change to make this story clearer?                       |                                |             |             |
+|After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing?                      |                                |             |             |
+
 
 
 # Identified changes for Part III
