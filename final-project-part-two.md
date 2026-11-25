@@ -18,6 +18,8 @@ My goal is to use attendance data to identify schools and student groups experie
 
 
 ## Interview script
+
+
 | Goal | Questions to Ask |
 | :--- | :--- |
 | Evaluate whether the main message and call to action are clearly communicated throughout the story. | What is the main message you get from this story? |
@@ -26,8 +28,6 @@ My goal is to use attendance data to identify schools and student groups experie
 | Determine whether the percentages are understandable to the audience without requiring additional explanations. | Can you explain in your own words what the percentages in this graph represent? |
 | Gather an outside perspective to identify areas where the storytelling, design, or explanations could be improved. | What would you change to make this story clearer? |
 | Evaluate whether the story provides useful information for considering student support programs. | After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing? 
-
-
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
