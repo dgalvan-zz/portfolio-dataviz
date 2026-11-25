@@ -27,3 +27,52 @@ main{padding:0 10% 72px}.page-content>h1:first-of-type{font:clamp(44px,7vw,82px)
   font-size: clamp(30px, 4vw, 48px);
   letter-spacing: -1px;
 }
+/* Polished tables for assignment pages */
+.assignment .page-content table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid #ead7e4;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 24px 0;
+}
+
+.assignment .page-content table th,
+.assignment .page-content table td {
+  padding: 18px 22px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 14px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+  border-bottom: 1px solid #eadfe7;
+}
+
+.assignment .page-content table th {
+  background: #f5e1ee;
+  color: #762c58;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.assignment .page-content table th:first-child {
+  width: 42%;
+}
+
+.assignment .page-content table tbody tr:nth-child(even) {
+  background: #fcf7fb;
+}
+
+.assignment .page-content table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+@media (max-width: 700px) {
+  .assignment .page-content table th,
+  .assignment .page-content table td {
+    padding: 12px;
+    font-size: 13px;
+  }
+}
