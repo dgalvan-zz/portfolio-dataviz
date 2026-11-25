@@ -5,9 +5,9 @@ course: true
 title: Final project II
 ---
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Shorthand link:
+https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6L0W1nX7qo
 
-Text here!
 
 # User research 
 
