@@ -32,13 +32,13 @@ My goal is to use attendance data to identify schools and student groups experie
 ## Interview findings
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What is the main message you get from this story? |            |             |             |
-|Is there anything confusing about the visualizations?                         |                                |             |             |
-|Can you identify which schools have higher chronic absenteeism rates?                         |                                |             |             |
-|Can you explain in your own words what the percentages in this graph represent?                        |                                |             |             |
-|What would you change to make this story clearer?                       |                                |             |             |
+| What is the main message you get from this story? |She identify the main message, which was what can PPS implement in their end in order   support students to stay in school.  |             |             |
+|Is there anything confusing about the visualizations?|found the first graph confusing because it was not immediately clear which schools the data represented. However, they found the heatmap easy to read and mentioned that the colors helped distinguish differences between groups.|             |             |
+|Can you identify which schools have higher chronic absenteeism rates?| A suggestions was specifying that the  graphs represents Pittsburgh Public Schools, because i did not have that specify in the titles for example. |             |             |
+|Can you explain in your own words what the percentages in this graph represent?|                                |             |             |
+|What would you change to make this story clearer?|The interviewee suggested clearly explaining the threshold for chronic absenteeism, as readers may not know how many missed school days qualify a student as chronically absent.|             |             |
 |After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing?                      |                                |             |             |
 
 
