@@ -88,9 +88,20 @@ My goal is to use attendance data to identify schools and student groups experie
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+1. Improving the demographic visualization
+
+Initially, I used a line chart to compare chronic absenteeism rates across racial and ethnic groups. However, the interview feedback highlighted that percentages alone could be misleading because some groups had smaller student populations but higher absenteeism rates.
+
+To address this issue, I would redisig the visualization as a treemap-style graphic that displays both chronic absenteeism rates and the number of students affected. The design will use different rectangle sizes to illustrate population differences and darker colors to represent higher absenteeism rates. This helps readers better understand the relationship between percentages and student populations.
+
+2. Improving school-level comparisons
+
+Initially, I created a single graph ranking Pittsburgh Public Schools (PPS) from highest to lowest based on chronic absenteeism rates. However, this visualization was too general and made it difficult to identify meaningful differences across educational levels.
+
+To improve the analysis, I will replace the original ranking with three separate interactive line charts for high schools, middle schools, and primary schools. Each chart shows chronic absenteeism trends from 2017–2018 to 2025–2026, allowing readers to compare schools within the same educational level and identify where attendance challenges have persisted over time.
+
+These changes would make the story more focused, easier to interpret, and more useful for understanding where additional student support may be needed.
 
 
 
