@@ -34,20 +34,25 @@ My goal is to use attendance data to identify schools and student groups experie
 
 1. What is the main message you get from this story?
  
-   -Interview 1: She identify the main message, which was what can PPS implement in their end in order   support students to stay in school.
+   -Interview 1:
+   She identify the main message, which was what can PPS implement in their end in order   support students to stay in school.
    
-   -Interview 2 :
+   -Interview 2 : The participant understood that the story focused on chronic absenteeism in Pittsburgh Public Schools but suggested making the intended audience and call to action clearer. Specifically, the participant wanted to understand who should use these findings and what actions they could take based on the data.
    
    -Interview 3
 
 
 2. Is there anything confusing about the visualizations?
-   -Interview 1 :
-   -Interview 2 :
+   
+   -Interview 1 : found the first graph confusing because it was not immediately clear which schools the data represented. However, they found the heatmap easy to read and mentioned that the colors helped distinguish differences between groups.
+   
+   -Interview 2 : The participant pointed out that the racial and ethnic group visualization could be misleading because some groups had high chronic absenteeism rates but small student populations, while larger groups had lower percentages but more students affected. The participant suggested including both percentages and student counts to make these differences easier to understand.
+   
    -Interview 3:
    
 3. Can you identify which schools have higher chronic absenteeism rates?
-   -Interview 1 :found the first graph confusing because it was not immediately clear which schools the data represented. However, they found the heatmap easy to read and mentioned that the colors helped distinguish differences between groups.
+   
+   -Interview 1 : She found the heatmap easy to interpret and mentioned that the colors helped distinguish differences rates between groups.
    
    -Interview 2 :
    
@@ -66,14 +71,14 @@ My goal is to use attendance data to identify schools and student groups experie
 
    -Interview 1 :The interviewee suggested clearly explaining the threshold for chronic absenteeism, as readers may not know how many missed school days qualify a student as chronically absent.
    
-   -Interview 2 :
+   -Interview 2 : The participant recommended providing more context for the racial and ethnic group comparisons by including student population sizes alongside absenteeism rates, or even separate the graph by population size, maybe? 
    
    -Interview 3 :
    
 
 6.After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing?
 
-   -Interview 1 :
+   -Interview 1 :  Not addressed.
    
    -Interview 2 :
    
