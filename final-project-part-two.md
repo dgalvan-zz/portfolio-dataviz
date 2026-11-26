@@ -7,7 +7,7 @@ title: Final project II
 # Wireframes / storyboards
 Shorthand link:
 
-https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6L0W1nX7qo
+[https://app.shorthand.com/organisations/JSrgFWI7zn/stories/6L0W1nX7qo](https://carnegiemellon.shorthandstories.com/f2318ffe-a8ce-4eb4-9a40-f7cebf6916ae/index.html)
 
 
 # User research 
