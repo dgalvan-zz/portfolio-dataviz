@@ -54,7 +54,7 @@ My goal is to use attendance data to identify schools and student groups experie
    
    -Interview 1 : She found the heatmap easy to interpret and mentioned that the colors helped distinguish differences rates between groups.
    
-   -Interview 2 :
+   -Interview 2 : Not addressed. 
    
    -Interview 3 :
    
@@ -63,7 +63,7 @@ My goal is to use attendance data to identify schools and student groups experie
 
    -Interview 1 :A suggestions was specifying that the graphs represents Pittsburgh Public Schools, because i did not have that specify in the titles for example.
    
-   -Interview 2 :
+   -Interview 2 : Not addressed. 
    
    -Interview 3 :
    
@@ -80,7 +80,7 @@ My goal is to use attendance data to identify schools and student groups experie
 
    -Interview 1 :  Not addressed.
    
-   -Interview 2 :
+   -Interview 2 :  Not addressed. 
    
    -Interview 3 :
    
