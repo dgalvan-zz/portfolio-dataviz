@@ -59,7 +59,7 @@ My goal is to use attendance data to identify schools and student groups experie
    -Interview 3 :
    
    
-4.Can you explain in your own words what the percentages in this graph represent?
+4. Can you explain in your own words what the percentages in this graph represent?
 
    -Interview 1 :A suggestions was specifying that the graphs represents Pittsburgh Public Schools, because i did not have that specify in the titles for example.
    
@@ -67,7 +67,7 @@ My goal is to use attendance data to identify schools and student groups experie
    
    -Interview 3 :
    
-5.What would you change to make this story clearer?
+5. What would you change to make this story clearer?
 
    -Interview 1 :The interviewee suggested clearly explaining the threshold for chronic absenteeism, as readers may not know how many missed school days qualify a student as chronically absent.
    
@@ -76,7 +76,7 @@ My goal is to use attendance data to identify schools and student groups experie
    -Interview 3 :
    
 
-6.After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing?
+6. After exploring this story, do you feel you have enough information to understand where additional student support programs might be needed? What information is missing?
 
    -Interview 1 :  Not addressed.
    
